@@ -1,0 +1,3 @@
+Kevin hart,Male,Light Training,Dumbbell- PushUp,20,5000
+Rani shahi,Female,SPA,SteamBath,60,4000
+Harry Style,Male,Heavy Training,PushUp- DeadLift,10,3000
